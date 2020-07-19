@@ -1,0 +1,12 @@
+name: Banco-CST
+version: 1.0
+author: Daniel
+main: me.daniel.cstbank.Main
+commands:
+    banco:
+        description: "Guarde Seu Dinheiro aqui para pegar mais tarde :)"
+        use: /<command>
+    menu:
+        description: "Guarde Seu Dinheiro aqui para pegar mais tarde :)"
+        use: /<command>
+depends: [Vault]
