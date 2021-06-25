@@ -1,5 +1,10 @@
 # CSTBank
 
+
+## Codigo rasurado, não recomendavel usar
+
+
+
 ## Informações
 * Versão: Spigot - 1.12.2
 * Por: Daniel
